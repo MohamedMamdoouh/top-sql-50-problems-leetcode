@@ -1,0 +1,14 @@
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# SQL backup / temporary files
+*.bak
+*.tmp
+*.log
+
+# Ignore environment / secrets (just in case)
+.env
