@@ -9,6 +9,3 @@ Thumbs.db
 *.bak
 *.tmp
 *.log
-
-# Ignore environment / secrets (just in case)
-.env

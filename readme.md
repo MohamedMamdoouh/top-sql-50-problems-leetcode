@@ -9,7 +9,7 @@ https://leetcode.com/studyplan/top-sql-50/
 
 ## 📌 About This Repository
 
-This repo is organized as a **straight solution archive** for all 50 SQL problems from LeetCode’s SQL study plan.
+This repo is organized as a **straight solution archive** for all 50 SQL problems from LeetCode’s SQL study plan. No qestions, no explanations, just the SQL code for each problem.
 
 The repository is designed to be:
 
